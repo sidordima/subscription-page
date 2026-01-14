@@ -140,3 +140,5 @@ docker-compose-local.yml
 /backend/dev_frontend
 
 /backend/.env
+/.idea/subscription-page.iml
+/.idea/modules.xml
